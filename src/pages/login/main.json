@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "登录",
+  "usingComponents": {
+    "van-tab": "/static/vant/lib/tab/index",
+    "van-tabs": "/static/vant/lib/tabs/index",
+    "van-field": "/static/vant/lib/field/index",
+    "van-button": "/static/vant/lib/button/index",
+    "van-action-sheet": "/static/vant/lib/action-sheet/index",
+    "i-tabs": "/static/iview/tabs/index",
+    "i-tab": "/static/iview/tab/index"
+  }
+}
